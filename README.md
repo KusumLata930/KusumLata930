@@ -1,70 +1,111 @@
-👋 Hey, I'm Kusum Lata!
+# 👋 Hi, I'm Kusum Lata!
 
-Electronics & Communication Engineering (IIOT) Student @ NIT Kurukshetra
+### Electronics & Communication Engineering (IIoT) Student @ NIT Kurukshetra
 
-💻 Software Engineering Aspirant
+💻 MERN Stack Developer | 🚀 Aspiring Software Engineer | 🧠 DSA Enthusiast | 🤖 Machine Learning Learner
 
-🧠 DSA Enthusiast
-
-🤖 Machine Learning Learner
-
-🚀 Building Projects and Preparing for Placements
+Passionate about building scalable web applications, solving challenging algorithmic problems, and exploring Machine Learning. Currently focused on MERN Stack development, Data Structures & Algorithms, and preparing for Software Engineering roles.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- 🎓 B.Tech ECE-IIOT at NIT Kurukshetra
-- 💻 Solved 483+ LeetCode Problems
-- 🌱 Currently learning Recursion, Dynamic Programming, OS, DBMS and CN
-- 🤖 Interested in Machine Learning and Software Development
-- 🎯 Targeting Software Engineering Internships
+- 🎓 B.Tech in Electronics & Communication Engineering (IIoT), NIT Kurukshetra
+- 💻 MERN Stack Developer
+- 🧩 Solved **550+ LeetCode** problems
+- 🌱 Learning Machine Learning and System Design
+- ⚡ Passionate about Full-Stack Development and Problem Solving
+- 🎯 Preparing for Software Engineering internships and placements
 
 ---
 
-## Tech Stack  
+## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 - Java
-- C++
 - Python
+- C
+- JavaScript
 
-### Core Subjects
+### 🌐 Web Development
+- HTML
+- CSS
+- React.js
+- Node.js
+- Express.js
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### 📚 Core CS Subjects
 - Data Structures & Algorithms
-- Object Oriented Programming
+- Object-Oriented Programming
 - DBMS
 - Operating Systems
 - Computer Networks
 
-### Tools
+### ⚙️ Tools & Technologies
 - Git
 - GitHub
 - VS Code
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-### Heart Disease Prediction
-Machine Learning project for predicting heart disease risk using classification algorithms.
+### ❤️ Heart Disease Prediction
+Machine Learning application that predicts heart disease risk using classification algorithms with an interactive user interface.
 
-### Learning Management System
-A platform for managing courses, students and learning resources.
-
-### Library Management System
-Java-based application for library record management.
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Streamlit
 
 ---
 
-## Current Goals
+### 🎓 Edemy – Learning Management System
+A full-stack learning platform where users can browse courses, manage content, and enhance online learning.
 
-
--
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
-## Connect With Me
+### 📚 Library Management System
+Desktop application for managing books, users, and issue/return records efficiently.
 
-📧 Email: dhankharkusum0@gmail.com
+**Tech Stack:** Java, MySQL
 
-🔗 GitHub: github.com/KusumLata930
+---
+
+## 📈 Coding Profiles
+
+- 💻 **LeetCode:** 550+ Problems Solved
+- 🌟 Regularly practicing Data Structures & Algorithms
+- 🚀 Focused on Competitive Programming and Interview Preparation
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- System Design
+- Advanced DSA
+- Backend Development
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Become a proficient MERN Stack Developer
+- 🌐 Build scalable full-stack applications
+- 🤖 Strengthen Machine Learning skills
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** <dhankharkusum0@gmail.com>
+
+💼 **LinkedIn:** https://www.linkedin.com/in/kusum-lata-6850b22a7/
+
+💻 **GitHub:** https://github.com/KusumLata930
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
