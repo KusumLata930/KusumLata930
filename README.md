@@ -77,7 +77,7 @@ Desktop application for managing books, users, and issue/return records efficien
 
 ## 📈 Coding Profiles
 
-- 💻 **LeetCode:** 550+ Problems Solved
+- 💻 **LeetCode:** 650+ Problems Solved
 - 🌟 Regularly practicing Data Structures & Algorithms
 - 🚀 Focused on Competitive Programming and Interview Preparation
 
