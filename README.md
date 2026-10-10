@@ -12,7 +12,7 @@ Passionate about building scalable web applications, solving challenging algorit
 
 - 🎓 B.Tech in Electronics & Communication Engineering (IIoT), NIT Kurukshetra
 - 💻 MERN Stack Developer
-- 🧩 Solved **550+ LeetCode** problems
+- 🧩 Solved **650+ LeetCode** problems
 - 🌱 Learning Machine Learning and System Design
 - ⚡ Passionate about Full-Stack Development and Problem Solving
 - 🎯 Preparing for Software Engineering internships and placements
